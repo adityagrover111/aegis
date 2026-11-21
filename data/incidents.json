@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "service": "auth",
+    "severity": "critical",
+    "message": "Authentication service unavailable"
+  },
+  {
+    "id": 2,
+    "service": "payments",
+    "severity": "high",
+    "message": "Payment processing timeout"
+  },
+  {
+    "id": 3,
+    "service": "auth",
+    "severity": "medium",
+    "message": "Elevated login latency"
+  },
+  {
+    "id": 4,
+    "service": "database",
+    "severity": "critical",
+    "message": "Database connection failed"
+  }
+]
